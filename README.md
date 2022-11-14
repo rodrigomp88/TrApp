@@ -2,7 +2,7 @@
 
 #Backend
 
--move backend/trapp file to the www or htdocs file in wampp or xampp server
+-move backend/trapp folder to the www or htdocs folder in wampp or xampp server
 
 Create a DATABASE in mysql
 
