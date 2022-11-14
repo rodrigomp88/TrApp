@@ -27,7 +27,7 @@ CREATE TABLE users (
  
  #Frontend
  
- -run yarn in frontend file
+ -run yarn in frontend folder
  -create .env file and add path server in VITE_BASE_URL=
  
  
